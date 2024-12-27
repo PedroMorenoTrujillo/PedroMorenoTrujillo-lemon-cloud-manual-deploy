@@ -59,7 +59,7 @@ export const pictureInfoMock: PictureInfo[] = [
   },
   {
     id: "9",
-    picUrl: "/.img/puppie4.jpeg",
+    picUrl: "./img/puppie4.jpeg",
     title: "Puppy 4",
     selected: false,
     category: CATEGORIES.PUPPIES,
